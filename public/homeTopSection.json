@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Russian Jacket",
+    "price": 45.00,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+    "brand": "Gucci",
+    "image": "https://i.ibb.co/z4rjSgL/picture.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 75
+    }
+  }
+]
